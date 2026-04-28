@@ -56,4 +56,3 @@ It's functional but definitely a work in progress. The combat is pretty basic an
 - More items
 - Maybe skills or abilities
 
-This was mainly a learning project to understand bots and databases better. Code's not perfect but hey, it works 🤷‍♂️
